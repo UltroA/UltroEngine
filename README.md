@@ -1,8 +1,8 @@
 # UltroEngine
-# Installing
-
-<h1>To install ultroengine:</h1>
-<code>pip install pygame</code>
-<code>pip install numba</code>
-<h1>And run</h1>
+# Запуск
+<p>Для успешной установки и запуска игры требуется:</p>
+1) Cкачать файлы игры на свой ПК
+2) Установить библиотеки находящиеся в файле "requirements.txt"
+3) Запустить игру с помощью команды:
 <code>python main.py</code>
+
